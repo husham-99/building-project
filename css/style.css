@@ -497,6 +497,11 @@ footer .part-item img{
         width: 90%;
         
     }
+
+    .last-form input::placeholder{
+
+        font-size: 14px;
+    }
     
 }
 
